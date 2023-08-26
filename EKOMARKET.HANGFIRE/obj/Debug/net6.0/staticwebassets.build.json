@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3sKUGkLCDOcx6ei8TxQZTi2N3BpqC+Isj8X8twW/+3c=",
+  "Source": "EKOMARKET.HANGFIRE",
+  "BasePath": "_content/EKOMARKET.HANGFIRE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\EKOMARKET.csproj",
+      "Version": 2,
+      "Source": "EKOMARKET",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

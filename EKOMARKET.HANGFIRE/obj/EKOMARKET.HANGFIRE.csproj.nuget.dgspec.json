@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.HANGFIRE\\EKOMARKET.HANGFIRE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.CORE\\EKOMARKET.CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.CORE\\EKOMARKET.CORE.csproj",
+        "projectName": "EKOMARKET.CORE",
+        "projectPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.CORE\\EKOMARKET.CORE.csproj",
+        "packagesPath": "C:\\Users\\umutc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.HANGFIRE\\EKOMARKET.HANGFIRE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.HANGFIRE\\EKOMARKET.HANGFIRE.csproj",
+        "projectName": "EKOMARKET.HANGFIRE",
+        "projectPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.HANGFIRE\\EKOMARKET.HANGFIRE.csproj",
+        "packagesPath": "C:\\Users\\umutc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.HANGFIRE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\EKOMARKET.csproj": {
+                "projectPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\EKOMARKET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "Hangfire.PostgreSql": {
+              "target": "Package",
+              "version": "[1.19.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\EKOMARKET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\EKOMARKET.csproj",
+        "projectName": "EKOMARKET",
+        "projectPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\EKOMARKET.csproj",
+        "packagesPath": "C:\\Users\\umutc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umutc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.CORE\\EKOMARKET.CORE.csproj": {
+                "projectPath": "C:\\Users\\umutc\\Desktop\\Yeni klasör (11)\\EKOMARKET\\EKOMARKET.CORE\\EKOMARKET.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Accord.MachineLearning": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

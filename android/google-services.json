@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580697529489",
+    "project_id": "ekomarket-ed1b3",
+    "storage_bucket": "ekomarket-ed1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580697529489:android:ec8376fc0a890ac9abf330",
+        "android_client_info": {
+          "package_name": "com.example.ekomarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFD0XWVOwJHU67_nurBLOt2fhLpYl3co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
