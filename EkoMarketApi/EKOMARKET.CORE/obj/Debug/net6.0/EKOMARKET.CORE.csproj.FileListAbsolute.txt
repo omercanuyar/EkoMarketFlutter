@@ -1,0 +1,14 @@
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\bin\Debug\net6.0\EKOMARKET.CORE.deps.json
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\bin\Debug\net6.0\EKOMARKET.CORE.runtimeconfig.json
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\bin\Debug\net6.0\EKOMARKET.CORE.dll
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\bin\Debug\net6.0\EKOMARKET.CORE.pdb
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.csproj.AssemblyReference.cache
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.AssemblyInfoInputs.cache
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.AssemblyInfo.cs
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.csproj.CoreCompileInputs.cache
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.dll
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\refint\EKOMARKET.CORE.dll
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.pdb
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\EKOMARKET.CORE.genruntimeconfig.cache
+C:\Users\umutc\Desktop\Yeni klasör (11)\EKOMARKET\EKOMARKET.CORE\obj\Debug\net6.0\ref\EKOMARKET.CORE.dll
